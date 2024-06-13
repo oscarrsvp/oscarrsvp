@@ -1,10 +1,10 @@
 ## Hi there 👋
 I'm, Oscar
 
-- 🔭 I’m currently working on refining my skills become a Software Engineer
+- 🔭 I’m currently honing my skills to become a Software Engineer.
 - 🌱 I’m currently learning TypeScript and backend development.
 - ⚡ I’m constantly learning and improving my skills, every setback is a learning opportunity.
-- 💬 Ask me about films.
+- 💬 Ask me about films, hiking trails, and reef aquariums.
 
 Langages/Frameworks & Tools:
 
