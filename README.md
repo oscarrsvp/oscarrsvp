@@ -25,8 +25,8 @@ Langages/Frameworks & Tools:
 
 How to reach me:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-r-4562b0312/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developedbyosc@gmail.com)
 
 <!--
 **oscarrsvp/oscarrsvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
