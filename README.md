@@ -2,11 +2,12 @@
 I'm, Oscar
 
 - 🔭 I’m currently honing my skills to become a Software Engineer.
-- 🌱 I’m currently learning TypeScript and backend development.
+- 🌱 I’m currently learning TypeScript, backend development.
+- 🧠 I’m focused on Data Structures and Algorithms to strengthen my problem-solving abilities.
 - ⚡ I’m constantly learning and improving my skills, every setback is a learning opportunity.
 - 💬 Ask me about films, hiking trails, and reef aquariums.
 
-Langages/Frameworks & Tools:
+Languages/Frameworks & Tools:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
