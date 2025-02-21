@@ -1,10 +1,10 @@
 ## Hi there 👋
 I'm, Oscar
 
-- 🔭 I’m currently honing my skills to become a Software Engineer.
-- 🌱 I’m currently learning TypeScript, backend development.
-- 🧠 I’m focused on Data Structures and Algorithms to strengthen my problem-solving abilities.
-- ⚡ I’m constantly learning and improving my skills, every setback is a learning opportunity.
+- 🔭 Exploring the world of Full-Stack Development.
+- 🎨 Passionate about Frontend Development and crafting intuitive UI/UX experiences.
+- 🌱 Currently diving into TypeScript and backend development.
+- ⚡ Always learning every challenge is a chance to grow.
 - 💬 Ask me about films, hiking trails, and reef aquariums.
 
 Languages/Frameworks & Tools:
